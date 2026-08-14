@@ -1,0 +1,8 @@
+{
+    "loginPage": {
+        "username": "username",
+        "password": "password",
+        "loginButton": "login-button"
+    }
+
+}

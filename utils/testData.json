@@ -1,0 +1,7 @@
+{
+    "loginData": {
+        "username": "standard_user",
+        "passwrd": "secret_sauce",
+        "loginButton": "login-button"
+    }
+}
